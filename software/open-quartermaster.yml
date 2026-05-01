@@ -16,7 +16,6 @@ current_release:
   tag: core-base+station-1.16.1
   published_at: '2026-04-30'
 commit_history:
-  2025-05: 144
   2025-06: 49
   2025-07: 113
   2025-08: 149
@@ -28,3 +27,4 @@ commit_history:
   2026-02: 219
   2026-03: 201
   2026-04: 213
+  2026-05: 0

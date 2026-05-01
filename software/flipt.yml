@@ -11,13 +11,12 @@ platforms:
 tags:
   - Software Development - Feature Toggle
 stargazers_count: 4784
-updated_at: '2026-04-27'
+updated_at: '2026-05-01'
 archived: false
 current_release:
   tag: v2.9.0
   published_at: '2026-04-22'
 commit_history:
-  2025-05: 52
   2025-06: 25
   2025-07: 56
   2025-08: 122
@@ -29,3 +28,4 @@ commit_history:
   2026-02: 68
   2026-03: 86
   2026-04: 61
+  2026-05: 2

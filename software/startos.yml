@@ -8,14 +8,13 @@ platforms:
 tags:
   - Self-hosting Solutions
 source_code_url: https://github.com/Start9Labs/start-os
-stargazers_count: 1830
-updated_at: '2026-04-30'
+stargazers_count: 1842
+updated_at: '2026-05-01'
 archived: false
 current_release:
   tag: v0.4.0-beta.7
   published_at: '2026-04-27'
 commit_history:
-  2025-05: 0
   2025-06: 0
   2025-07: 0
   2025-08: 0
@@ -27,3 +26,4 @@ commit_history:
   2026-02: 12
   2026-03: 190
   2026-04: 91
+  2026-05: 6

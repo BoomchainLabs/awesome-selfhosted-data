@@ -9,11 +9,10 @@ platforms:
 tags:
   - Games
 source_code_url: https://github.com/wesnoth/wesnoth
-stargazers_count: 6610
-updated_at: '2026-04-30'
+stargazers_count: 6611
+updated_at: '2026-05-01'
 archived: false
 commit_history:
-  2025-05: 95
   2025-06: 271
   2025-07: 190
   2025-08: 103
@@ -25,3 +24,4 @@ commit_history:
   2026-02: 157
   2026-03: 158
   2026-04: 105
+  2026-05: 3

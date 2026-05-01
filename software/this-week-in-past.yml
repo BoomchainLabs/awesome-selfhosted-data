@@ -10,13 +10,12 @@ tags:
   - Photo Galleries
 source_code_url: https://github.com/RouHim/this-week-in-past
 stargazers_count: 101
-updated_at: '2026-04-21'
+updated_at: '2026-05-01'
 archived: false
 current_release:
-  tag: 1.32.39
-  published_at: '2026-04-21'
+  tag: 1.32.41
+  published_at: '2026-05-01'
 commit_history:
-  2025-05: 4
   2025-06: 6
   2025-07: 4
   2025-08: 22
@@ -28,3 +27,4 @@ commit_history:
   2026-02: 0
   2026-03: 26
   2026-04: 4
+  2026-05: 5

@@ -15,7 +15,6 @@ current_release:
   tag: release-2025-05-14b
   published_at: '2025-09-09'
 commit_history:
-  2025-05: 29
   2025-06: 17
   2025-07: 12
   2025-08: 10
@@ -27,3 +26,4 @@ commit_history:
   2026-02: 2
   2026-03: 50
   2026-04: 51
+  2026-05: 0

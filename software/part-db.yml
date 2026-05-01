@@ -11,14 +11,13 @@ platforms:
 tags:
   - Inventory Management
 demo_url: https://demo.part-db.de/en/
-stargazers_count: 1603
+stargazers_count: 1606
 updated_at: '2026-04-21'
 archived: false
 current_release:
   tag: v2.10.0
   published_at: '2026-04-15'
 commit_history:
-  2025-05: 12
   2025-06: 6
   2025-07: 58
   2025-08: 131
@@ -30,3 +29,4 @@ commit_history:
   2026-02: 163
   2026-03: 79
   2026-04: 28
+  2026-05: 0
