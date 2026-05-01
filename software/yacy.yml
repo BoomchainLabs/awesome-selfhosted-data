@@ -10,11 +10,10 @@ platforms:
 tags:
   - Search Engines
 source_code_url: https://github.com/yacy/yacy_search_server
-stargazers_count: 3901
+stargazers_count: 3903
 updated_at: '2026-04-21'
 archived: false
 commit_history:
-  2025-05: 0
   2025-06: 36
   2025-07: 14
   2025-08: 22

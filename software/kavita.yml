@@ -10,12 +10,12 @@ tags:
   - Document Management - E-books
 source_code_url: https://github.com/Kareadita/Kavita
 demo_url: https://www.kavitareader.com/#demo
-stargazers_count: 10429
-updated_at: '2026-04-29'
+stargazers_count: 10439
+updated_at: '2026-04-30'
 archived: false
 current_release:
-  tag: v0.8.9.1
-  published_at: '2026-01-18'
+  tag: v0.9.0
+  published_at: '2026-04-30'
 commit_history:
   2025-05: 17
   2025-06: 30
@@ -28,4 +28,4 @@ commit_history:
   2026-01: 55
   2026-02: 7
   2026-03: 79
-  2026-04: 59
+  2026-04: 62

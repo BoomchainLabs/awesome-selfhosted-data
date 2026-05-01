@@ -11,13 +11,12 @@ platforms:
 tags:
   - Money, Budgeting & Management
 stargazers_count: 838
-updated_at: '2026-04-24'
+updated_at: '2026-04-30'
 archived: false
 current_release:
-  tag: 0.20.0
-  published_at: '2026-03-02'
+  tag: 0.20.1
+  published_at: '2026-04-30'
 commit_history:
-  2025-05: 13
   2025-06: 49
   2025-07: 69
   2025-08: 134
@@ -28,4 +27,4 @@ commit_history:
   2026-01: 61
   2026-02: 31
   2026-03: 13
-  2026-04: 30
+  2026-04: 32
