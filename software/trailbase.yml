@@ -10,8 +10,8 @@ tags:
   - Software Development - Low Code
 source_code_url: https://github.com/trailbaseio/trailbase
 demo_url: https://demo.trailbase.io
-stargazers_count: 4868
-updated_at: '2026-04-30'
+stargazers_count: 4869
+updated_at: '2026-05-01'
 archived: false
 current_release:
   tag: v0.26.8
@@ -28,4 +28,4 @@ commit_history:
   2026-02: 76
   2026-03: 76
   2026-04: 103
-  2026-05: 0
+  2026-05: 2

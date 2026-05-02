@@ -9,12 +9,12 @@ platforms:
   - Nodejs
 tags:
   - Wikis
-stargazers_count: 19992
+stargazers_count: 20000
 updated_at: '2026-05-01'
 archived: false
 current_release:
-  tag: v0.80.1
-  published_at: '2026-04-28'
+  tag: v0.80.2
+  published_at: '2026-05-02'
 commit_history:
   2025-06: 31
   2025-07: 46

@@ -10,8 +10,8 @@ platforms:
   - K8S
 tags:
   - Generative Artificial Intelligence (GenAI)
-stargazers_count: 67
-updated_at: '2026-05-01'
+stargazers_count: 68
+updated_at: '2026-05-02'
 archived: false
 current_release:
   tag: v0.7.5
@@ -20,4 +20,4 @@ commit_history:
   2026-02: 40
   2026-03: 42
   2026-04: 69
-  2026-05: 4
+  2026-05: 7

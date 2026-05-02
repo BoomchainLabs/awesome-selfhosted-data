@@ -10,7 +10,7 @@ tags:
 source_code_url: https://github.com/espocrm/espocrm
 demo_url: https://demo.espocrm.com/
 stargazers_count: 2916
-updated_at: '2026-05-01'
+updated_at: '2026-05-02'
 archived: false
 current_release:
   tag: 9.3.6
@@ -27,4 +27,4 @@ commit_history:
   2026-02: 94
   2026-03: 164
   2026-04: 228
-  2026-05: 9
+  2026-05: 22
